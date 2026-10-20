@@ -13,4 +13,4 @@ A Simple calculator built using HTML, CSS and JavaScript.
 - JavaScript
 
 ## Live Demo
-https://atulpal2004.github.io/Interactive-calculator/
+https://atulpal2004.github.io/Interactive-Calculator/
